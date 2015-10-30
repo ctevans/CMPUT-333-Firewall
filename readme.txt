@@ -1,3 +1,16 @@
+~WHAT IS THIS?~~~~
+What is this?! This is a firewall, for CMPUT 333's second assignment. Given two
+unique clients (windows and a linux) I must manage the incoming and outgoing traffic.
+
+Why? Because we cannot arbitrarily trust that the network will be safe. The firewall
+is being put directly smack infront of the servers to act as a gate guardian to these
+two clients. 
+
+
+
+
+~MISC QUESTIONS~~~~
+
 So this project may cause a lot of questions to arise...
 I want to dispell these here!
 
